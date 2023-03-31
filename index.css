@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+    color:red;
+}
+
+img{
+    height: 300px;
+}
+div{
+color:yellow;
+
+}
+fieldset{
+    background-color:rgb(4, 4, 77);
+    width: 98%;
+}
