@@ -67,8 +67,7 @@ document.addEventListener("DOMContentLoaded", () => {
 				// console.log(movie)
 				const movieItem = document.createElement("li")
 				const list = document.getElementById("showingMovie")
-	
-				movieItem.classList.add("border")
+
 	
 				movieItem.setAttribute('id',`${movie.id}`)
 	
